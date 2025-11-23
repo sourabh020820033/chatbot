@@ -1,0 +1,8 @@
+project_id = "ydelcfrgihyfkelemudf"
+
+[auth]
+enabled = true
+site_url = "http://127.0.0.1:8080"
+
+[functions.health-chat]
+verify_jwt = false
